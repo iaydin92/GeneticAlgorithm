@@ -1,5 +1,5 @@
 # GeneticAlgorithm
-Solving optimization problem with Genetic Algorithm using MATLAB 
+Application of Genetic Algorithm to solve optimization problem by using MATLAB
 
 Procedure 
 
